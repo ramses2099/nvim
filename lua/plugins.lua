@@ -1,4 +1,4 @@
--- Ensuring Packer Is Intalled
+
 local status, packer = pcall(require,'packer')
 if (not status) then
 	print("Packer Is Not Working")
