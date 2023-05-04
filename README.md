@@ -6,30 +6,15 @@ Setting of neovim for dev Python
 
 ### Directory structure
 
-"""
-+------- init.lua
-|
-|
-+---------lua
-|
-|
-+---------------base.lua
-|
-+---------------keymaps.lua
-|
-+---------------looks.lua
-|
-+---------------plugins.lua
-|
-|
-+----------packer-plugins
-|
-|
-+----------------bufferline.lua
-|
-+----------------lualine.lua
-|
-+----------------telescope.lua
-|
-+----------------tokyonight.lua
-"""
+
+###  -init.lua
+#### -lua
+#### --base.lua
+#### --keymaps.lua
+#### --looks.lua
+#### --plugins.lua
+###  -packer-plugins
+#### --bufferline.lua
+#### --lualine.lua
+#### --telescope.lua
+#### --tokyonight.lua
