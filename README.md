@@ -18,3 +18,13 @@ Setting of neovim for dev Python
 #### --lualine.lua
 #### --telescope.lua
 #### --tokyonight.lua
+
+## Install plugin Manager packer.nvim
+### https://github.com/wbthomason/packer.nvim
+
+## Install RipGrepp
+### choco install ripgrepp
+### https://github.com/BurntSushi/ripgrep
+
+
+
