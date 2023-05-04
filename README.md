@@ -24,5 +24,7 @@ Setting of neovim for dev Python
 ### choco install ripgrepp
 ### https://github.com/BurntSushi/ripgrep
 
-
+#### All of this content is from youtube.com
+#### https://www.youtube.com/watch?v=a7QWjlVhedw 
+#### Thanks for the tutorial **Lofi Coochie**
 
